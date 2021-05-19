@@ -1,0 +1,30 @@
+.forms {
+    margin-top: 35px;
+}
+
+.emails {
+    width: 65%;
+}
+
+.forms{
+   
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+}
+
+.btn {
+    margin-left: 45%;
+    
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}

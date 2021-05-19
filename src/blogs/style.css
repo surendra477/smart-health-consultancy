@@ -1,0 +1,37 @@
+
+.top{
+    
+  background-color: #e8e8e8;
+}
+.tops{
+    padding:3%;
+    height:450px;
+   
+  
+}
+.trs{
+    transition: transform 450ms;
+}
+
+.trs:hover{
+    transform: scale(1.08);
+}
+.mrg{
+    margin-left:1%
+}
+
+@media all and (max-width: 900px) {
+    .tops {
+        padding: 3%;
+        height: 1350px;
+
+
+    }
+}
+
+.fotr{
+    cursor: pointer;
+}
+
+
+

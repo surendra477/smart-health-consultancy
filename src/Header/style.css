@@ -1,0 +1,12 @@
+.bgs{
+    margin-left:10px ;
+    border-radius: 15px;
+   
+    
+}
+
+.bgs:hover{
+  background:#eecaca;
+  border-radius: 10px;
+
+}

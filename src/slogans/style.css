@@ -1,0 +1,20 @@
+.flt{
+    float: left;
+    padding: 2%;
+margin-left: 3%;
+margin-top: 4%;    
+}
+
+.bg{
+    height:490px;
+    background-color: red;
+}
+
+@media all and (max-width: 900px) {
+    .bg {
+        height: 1060px;
+        background-color: red;
+        text-align: center;
+       
+    }
+}
